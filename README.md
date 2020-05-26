@@ -9,5 +9,5 @@ Insertion/Removal of Bangles follows LIFO(Last in First Out) method.
 ## Why should we learn Stack ?
 
 When we need to crate an application which utilizes 'last incoming data first'.  
-Example: Implementation of 'back' button in browser.  
+**Example**: Implementation of 'back' button in browser.  
 
